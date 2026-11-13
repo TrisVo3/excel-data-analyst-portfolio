@@ -1,49 +1,141 @@
-# Excel Data Analyst Portfolio
+# 📊 Excel Tutorials for Data Analysts
 
-A collection of hands-on Excel projects covering data cleaning, formulas, pivot-table analysis, charts, conditional formatting, and dashboard building. Each numbered folder contains the workbook or source data for that project, with screenshots included where available.
+Welcome to my Excel Data Analyst Portfolio!
 
-## Projects
+This repository showcases my hands-on practice and learning in Microsoft Excel through the **Excel Tutorials for Data Analysts** playlist by [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
 
-### 01 — Data cleaning
-Practice cleaning a raw dataset and compare the source data with the cleaned result.
+Throughout these tutorials, I explored essential Excel techniques used in data analysis, from data cleaning and formula-based calculations to PivotTables, data visualization, and dashboard creation.
 
-- [Before Data Cleaning Excel Tutorial.csv](01-data-cleaning/Before%20Data%20Cleaning%20Excel%20Tutorial.csv) — source data
-- [After Data Cleaning Excel Tutorial.xlsx](01-data-cleaning/After%20Data%20Cleaning%20Excel%20Tutorial.xlsx) — cleaned workbook
+My goal is to strengthen my analytical skills and demonstrate how Microsoft Excel can be used to transform raw data into meaningful insights.
 
-### 02 — Excel formulas
-A formula practice/template workbook for exploring Excel calculations and functions.
+---
 
-- [Formula Excel Template.xlsx](02-excel-formulas/Formula%20Excel%20Template.xlsx)
+## 🛠️ Tools & Technologies
 
-### 03 — Pivot-table analysis
-A sales-analysis workbook focused on pivot tables, accompanied by a preview image.
+- **Microsoft Excel**
+- PivotTables & PivotCharts
+- Excel Formulas & Functions
+- VLOOKUP & XLOOKUP
+- Conditional Formatting
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
 
-- [Pivot Tables Sales Excel.xlsx](03-pivot-table-analysis/Pivot%20Tables%20Sales%20Excel.xlsx)
-- [Pivot table preview](03-pivot-table-analysis/pivot%20table%20sales.jpg)
+---
 
-### 04 — Charts and conditional formatting
-Workbooks and screenshots for practicing chart creation and conditional formatting.
+## 📁 Projects & Skills Covered
 
-- [Excel Charts Tutorial File.xlsx](04-charts-and-conditional-formatting/Excel%20Charts%20Tutorial%20File.xlsx)
-- [Chart preview](04-charts-and-conditional-formatting/Chart.jpg)
-- [Conditional Formatting Excel Tutorial File.xlsx](04-charts-and-conditional-formatting/Conditional%20Formatting%20Excel%20Tutorial%20File.xlsx)
-- [Conditional formatting preview](04-charts-and-conditional-formatting/Conditional%20Formatting.jpg)
+### 1. Conditional Formatting
+Explored Excel's Conditional Formatting features to highlight important values, identify patterns, and make data easier to interpret.
 
-### 05 — Excel dashboard
-A project dataset and dashboard preview for the portfolio's dashboard project.
+**Skills:** 
+- Highlight Cells Rules
+- Duplicate Values
+- Color Scales
+- Conditional Formatting Rules
 
-- [Excel Project Dataset.xlsx](05-excel-dashboard/Excel%20Project%20Dataset.xlsx)
-- [Dashboard preview](05-excel-dashboard/project%20Dashboard.jpg)
+### 2. Pivot Tables
+Practiced summarizing and analyzing datasets using PivotTables to organize information and explore relationships between different categories.
 
-## Repository structure
+**Skills:**
+- Creating PivotTables
+- Grouping and summarizing data
+- Filtering and sorting
+- Analyzing categorical data
 
-```text
-01-data-cleaning/
-02-excel-formulas/
-03-pivot-table-analysis/
-04-charts-and-conditional-formatting/
-05-excel-dashboard/
-images/
-```
+### 3. Charts & Data Visualization
+Learned how to transform numerical data into visual representations to communicate trends, comparisons, and patterns.
 
-Open the `.xlsx` files in Microsoft Excel or a compatible spreadsheet application to explore the project workbooks. Screenshots are provided as quick previews where available.
+**Skills:**
+- Creating Excel Charts
+- Chart Formatting
+- Data Visualization
+- Choosing appropriate chart types
+
+### 4. Excel Formulas & Functions
+Practiced commonly used Excel functions for calculations, data manipulation, and analysis.
+
+**Skills:**
+- IF & IFS
+- SUM, SUMIF & SUMIFS
+- COUNT, COUNTIF & COUNTIFS
+- MAX & MIN
+- LEFT, RIGHT & LEN
+- TRIM, CONCATENATE & SUBSTITUTE
+- DAYS & NETWORKDAYS
+
+### 5. XLOOKUP
+Explored XLOOKUP to retrieve matching information from datasets and connect related data.
+
+**Skills:**
+- XLOOKUP
+- Exact Match Lookup
+- Horizontal & Vertical Lookup
+- Search Modes
+- Comparison with VLOOKUP
+
+### 6. Data Cleaning
+Practiced preparing raw datasets for analysis by identifying inconsistencies and standardizing information.
+
+**Skills:**
+- Removing Duplicates
+- Find & Replace
+- Standardizing Text
+- Correcting Formatting
+- Handling Inconsistent Data
+
+### 7. Full Excel Data Analysis Project — Bike Buyers
+Applied multiple Excel techniques in an end-to-end project using a bike buyer dataset.
+
+The project involved preparing the dataset, performing analysis, creating visualizations, and developing an interactive dashboard.
+
+**Skills:**
+- Data Cleaning & Preparation
+- Excel Formulas
+- Age Group Categorization
+- PivotTables
+- PivotCharts
+- Data Visualization
+- Interactive Dashboard Development
+
+---
+
+## 🎯 Key Learning Outcomes
+
+Through these exercises and projects, I gained practical experience in:
+
+- Cleaning and preparing raw datasets for analysis.
+- Applying Excel formulas to manipulate and analyze data.
+- Summarizing large datasets using PivotTables.
+- Identifying patterns and trends in data.
+- Creating meaningful visualizations.
+- Building interactive dashboards for business reporting.
+
+---
+
+## 📸 Project Previews
+
+Screenshots of completed Excel dashboards and analysis will be added here as the portfolio develops.
+
+---
+
+## 📚 Learning Resources
+
+**Instructor:** Alex The Analyst
+
+- [Excel Tutorials for Data Analysts — YouTube Playlist](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5)
+- [Alex The Analyst — GitHub](https://github.com/AlexTheAnalyst)
+
+---
+
+## 👨‍💻 About Me
+
+I am a Computer Science student interested in Data Analytics and exploring how data can be transformed into meaningful business insights.
+
+I am currently developing my skills in Excel and expanding my knowledge of data analysis tools and technologies.
+
+This repository represents part of my continuous learning journey toward becoming a Data Analyst.
+
+---
+
+**Thank you for visiting my portfolio!**
